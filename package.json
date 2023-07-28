@@ -1,0 +1,21 @@
+{
+  "name": "selenium-ts-pom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.5",
+    "@types/mocha": "^10.0.1",
+    "@types/ramda": "^0.29.3",
+    "@types/selenium-webdriver": "^4.1.15",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.10.0",
+    "typescript": "^5.1.6"
+  }
+}
